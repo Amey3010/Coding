@@ -1,0 +1,13 @@
+{
+    "name":{
+        "first" : "Robert",
+        "middle" : "N/A",
+        "last" : "Smith" 
+    },
+    "age" : 25,
+    "dob" : "",
+    "hobbies" : ["running", "coding", "-"],
+    "education" : {
+        "college" : "Yale"
+    }
+}
